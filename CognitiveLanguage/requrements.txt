@@ -1,0 +1,3 @@
+write me a terraform script to create a azure congitive language 
+service which blocks public network access, uses a customer managed key, 
+doesn't allow local authentication and is not the free tier
