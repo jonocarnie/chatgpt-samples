@@ -10,9 +10,8 @@ The purpose of this repository is to showcase the capabilities of ChatGPT and pr
 
 The repository contains sample output for various tasks, including:
 
-- Text completion
-- Language translation
-- Sentiment analysis
+- List of Python tutorials with link to youtube videos
+- A request to generate a azure cognitive service via terraform
 
 Each output file is named after the task it pertains to and includes a timestamp indicating when the output was generated. The output is stored in plain text format and can be viewed directly on GitHub or downloaded for offline use.
 

@@ -1,3 +1,4 @@
-write me a terraform script to create a azure congitive language 
-service which blocks public network access, uses a customer managed key, 
-doesn't allow local authentication and is not the free tier
+## ChatGPT Input
+
+- Write me a terraform script to create a azure congitive language service which blocks public network access, uses a customer managed key, doesn't allow local authentication and is not the free tier
+- Using the azure cis 1.3 specification, review the azure cognitive language service and create a list of azure policy to implement the cis 1.3 standard
