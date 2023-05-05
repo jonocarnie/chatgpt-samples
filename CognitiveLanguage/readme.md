@@ -1,6 +1,6 @@
+#Sample Congnitive Services sample
 
 
-Sure, here's a sample Terraform script that creates an Azure Cognitive Language Service with the requirements you specified:
 
 ```terraform
 provider "azurerm" {
